@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  hungry-heroes:
+    build: .
+    container_name: hungry-heroes
+    ports:
+      - "8080:8080"
