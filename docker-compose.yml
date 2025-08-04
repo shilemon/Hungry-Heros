@@ -3,6 +3,11 @@ version: '3.8'
 services:
   hungry-heroes:
     build: .
-    container_name: hungry-heroes
+    container_name: hungry-heros
     ports:
       - "8080:8080"
+    environment:
+      - JAVA_OPTS=-Djava.awt.headless=true
+    volumes:
+      - .:/app
+    command: ["java", "-Djava.awt.headless=true", "Start"]
