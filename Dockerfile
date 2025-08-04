@@ -7,8 +7,11 @@ WORKDIR /app
 # Copy the local source code (including classes and interfaces) to the container
 COPY . /app
 
-# Compile all the Java source files, including those in subdirectories
-RUN javac -d . $(find . -name "*.java")
+# Create the classes directory and compile all the Java source files into class files
+RUN mkdir -p classes && javac -d classes $(find . -name "*.java")
+
+# Set the working directory to the directory where Start.class is compiled
+WORKDIR /app/classes
 
 # Run the Java application in headless mode
 CMD ["java", "-Djava.awt.headless=true", "Start"]
