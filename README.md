@@ -138,3 +138,44 @@ If you prefer to run the app without Docker, follow these steps:
 ## Project Structure
 Here is an overview of the project structure:
 
+PROJECT-HEROES/
+│
+├── .github/ # GitHub workflows
+├── .vscode/ # VSCode configurations
+├── classes/ # Java class files
+├── data/ # Resources or data files
+├── icons/ # Icons for the application
+├── interfaces/ # Interface definitions
+├── docker-compose.yml # Docker Compose file
+├── Dockerfile # Docker build instructions
+├── Start.java # Main entry point for the application
+├── Start.class # Compiled version of Start.java
+└── deploy.yml # Deployment configuration
+
+
+## Contributing
+1. Fork the repository.
+2. Clone your forked repository to your local machine.
+    ```bash
+    git clone https://github.com/<your-username>/Hungry-Heros.git
+    ```
+3. Create a new branch to work on a specific feature or bugfix:
+    ```bash
+    git checkout -b feature/your-feature
+    ```
+4. Make your changes in the project files.
+5. Commit your changes:
+    ```bash
+    git add .
+    git commit -m "Add feature/bugfix description"
+    ```
+6. Push your changes to your forked repository:
+    ```bash
+    git push origin feature/your-feature
+    ```
+7. Create a pull request to merge your changes into the original repository.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+
