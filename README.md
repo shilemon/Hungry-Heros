@@ -94,34 +94,46 @@ If you prefer to run the app without Docker, follow these steps:
 ## Screenshots
 
 ### 1. Home Page
-![Home Page](https://github.com/user-attachments/assets/fa816eb9-9b7e-44bf-a2d4-eb50f50d7318)
+<img width="981" height="676" alt="Screenshot 2025-08-06 203721" src="https://github.com/user-attachments/assets/fa816eb9-9b7e-44bf-a2d4-eb50f50d7318" />
 
 ### 2. Signup Page
-![Signup Page](https://github.com/user-attachments/assets/06843b09-ac34-43e3-a689-05e0ef3a81c0)
+<img width="1102" height="723" alt="Screenshot 2025-08-06 203819" src="https://github.com/user-attachments/assets/06843b09-ac34-43e3-a689-05e0ef3a81c0" />
 
 ### 3. Available Restaurants
-![Available Restaurants](https://github.com/user-attachments/assets/9e73a831-c956-4f0d-b634-c6af5229cc61)
+<img width="982" height="690" alt="Screenshot 2025-08-06 203734" src="https://github.com/user-attachments/assets/9e73a831-c956-4f0d-b634-c6af5229cc61" />
 
 ### 4. Menu Page (Example: Sultans Dine)
-![Menu Page](https://github.com/user-attachments/assets/767a404b-11fc-4865-aa2a-b3b3560177d6)
+<img width="1109" height="705" alt="Screenshot 2025-08-06 204023" src="https://github.com/user-attachments/assets/767a404b-11fc-4865-aa2a-b3b3560177d6" />
 
 ### 5. Profile Page
-![Profile Page](https://github.com/user-attachments/assets/b2f8a57e-6195-4060-8d05-239198cb0e27)
+<img width="1112" height="705" alt="Screenshot 2025-08-06 204012" src="https://github.com/user-attachments/assets/b2f8a57e-6195-4060-8d05-239198cb0e27" />
 
 ### 6. Order Page
-![Order Page](https://github.com/user-attachments/assets/ba57b9a8-479d-4067-af30-2322076a4029)
+<img width="1104" height="698" alt="Screenshot 2025-08-06 203958" src="https://github.com/user-attachments/assets/ba57b9a8-479d-4067-af30-2322076a4029" />
 
 ### 7. Restaurant Menu (Example: Pizza Hut)
-![Pizza Hut Menu](https://github.com/user-attachments/assets/aa4036ba-5a66-4223-ae05-900256b63692)
+<img width="1100" height="703" alt="Screenshot 2025-08-06 203946" src="https://github.com/user-attachments/assets/aa4036ba-5a66-4223-ae05-900256b63692" />
 
 ### 8. Order Summary Page
-![Order Summary](https://github.com/user-attachments/assets/a0fba7f5-0dd9-4372-8582-0983ec955bd1)
+<img width="1108" height="719" alt="Screenshot 2025-08-06 203935" src="https://github.com/user-attachments/assets/a0fba7f5-0dd9-4372-8582-0983ec955bd1" />
 
 ### 9. Profile Information
-![Profile Information](https://github.com/user-attachments/assets/69447864-30d5-45aa-be0e-e40233b58783)
+<img width="1097" height="728" alt="Screenshot 2025-08-06 203921" src="https://github.com/user-attachments/assets/69447864-30d5-45aa-be0e-e40233b58783" />
 
 ### 10. Restaurant Selection
-![Restaurant Selection](https://github.com/user-attachments/assets/b0f00585-a0f0-41d0-b444-93963775ae0c)
+<img width="1105" height="723" alt="Screenshot 2025-08-06 203911" src="https://github.com/user-attachments/assets/b0f00585-a0f0-41d0-b444-93963775ae0c" />
+
+### 11. Signup Confirmation
+<img width="756" height="620" alt="Screenshot 2025-08-06 203839" src="https://github.com/user-attachments/assets/1286b5de-4f7f-4530-bf2a-9036fe3d968a" />
+
+### 12. Successful Order Confirmation
+<img width="994" height="609" alt="Screenshot 2025-08-06 204406" src="https://github.com/user-attachments/assets/80c1cfda-0e2b-4ac4-bf1c-8ca640fc8230" />
+
+### 13. Homepage Overview
+<img width="1231" height="675" alt="Screenshot 2025-08-06 204332" src="https://github.com/user-attachments/assets/3f60a0e0-82d7-494b-aaf8-1c647775ff4f" />
+
+### 14. Feedback Form
+<img width="778" height="498" alt="Screenshot 2025-08-06 204259" src="https://github.com/user-attachments/assets/4b9af958-8b22-44e3-a2bd-a8b536baccac" />
 
 ## Project Structure
 Here is an overview of the project structure:
